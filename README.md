@@ -1,15 +1,32 @@
-# CAI Air & Sea Logistics Website
+# CAI Air & Sea Logistics  
+**25 Years Trusted Freight Forwarder in Hong Kong**
 
-This is the static website for CAI (25 years HK logistics company).
+![CAI Logo](cai-logo.png)
 
-## How to View
-- GitHub Pages: https://alisabiby-alt.github.io/abigail-test/
+![Hero Banner](hero-banner.jpg)
 
-## Customize
-- Edit HTML files in GitHub editor.
-- Add photos: Create `images/` folder, upload JPGs, reference in HTML (e.g., <img src="images/warehouse.jpg">).
-- Contact Form: Sign up at formspree.io (free), replace "your-form-id".
+### Website Live (Free & Forever)
+https://alisabiby-alt.github.io/abigail-test/
 
-Bilingual: Toggle button switches English/Chinese.
+### Quick Links
+- Home – https://alisabiby-alt.github.io/abigail-test/
+- Air Freight – https://alisabiby-alt.github.io/abigail-test/services-air.html
+- Contact Us – https://alisabiby-alt.github.io/abigail-test/#contact
 
-SEO Keywords: hong kong freight forwarder, air sea logistics hk.
+### Features
+- Bilingual (English / 繁體中文) toggle  
+- WhatsApp direct quote button  
+- Mobile-perfect design  
+- Super fast loading (<1 second)  
+- 100% free hosting forever (GitHub + Cloudflare)
+
+### Our Office & Warehouse
+![Warehouse](warehouse.jpg)
+![Team Photo](team.jpg)
+
+### Contact
+- Phone / WhatsApp: +852 2334 8381  
+- Email: info@caiair-sea.com.hk  
+- Address: To Kwa Wan, Hong Kong  
+
+Established 2000 • WCA & JCTrans Member
